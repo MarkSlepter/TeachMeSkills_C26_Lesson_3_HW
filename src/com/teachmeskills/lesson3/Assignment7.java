@@ -6,9 +6,9 @@ public class Assignment7 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int MonthCode = scanner.nextInt();
+        int monthCode = scanner.nextInt();
 
-        switch (MonthCode){
+        switch (monthCode){
             case 1:
                 System.out.println("January");
                 break;
